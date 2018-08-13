@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Framework"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "A short description of Framework."
   s.author           = { 'amishra' => 'amishra@akamai.com' }
   #s.license          = { :type => 'AGPLv3', :text => 'AGPLv3' }
